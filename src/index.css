@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+html, body {
+  font-family: "Lucinda",sans-serif;
+  height: 100%;
+}
+
+body {
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  background-image: url(./rsz_backgroundpic.png);
+  background-size: cover;
+  /* background: linear-gradient(90deg, #f7cbd2, #90d5f5); */
+}
+
+
+
